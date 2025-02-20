@@ -1,6 +1,5 @@
 # Personalised Learning Performance Prediction
 
-## Non-Technical Explanation of Your Project
 This project aims to predict students' final scores based on factors such as engagement, study habits, and learning styles. By analysing these variables, the model helps educators and students understand which factors contribute most to academic success, enabling personalised learning recommendations.
 
 ## Data
